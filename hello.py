@@ -1,1 +1,1 @@
-print("Ecoute moi Mr Webhook tu informe ton Maitre de la MIJ test jenkins")
+print("Ecoute  Maitre de la MIJ test jenkins")
